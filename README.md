@@ -1,6 +1,1 @@
-#backboneIntroStep1a
-
-This is a copy of the work I did on a private repo, originally a project from
-[Hack Reactor's](http://hackreactor.com) curriculum. This project was worked
-on with a pair; it's representative of the kind of problems that I've tackled,
-but not of my solo work.
+This work is a product of a pair programming project done as a part of [Hack Reactor's](http://hackreactor.com) curriculum.  It is (very very) lightweight card game app framework written with Backbone.
